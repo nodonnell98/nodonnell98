@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey! I'm Niall 👋
+
+*He/Him, Developer [@plymouthsoftware](https://www.plymouthsoftware.com)*
+
+I'm a software developer learning as much as I can about front end web design. I work primarily with Ruby on Rails & React but in my own time I enjoy developing my skills with other technologies.
+
+I have also given a professional seminar at the FutureSync 2020 Tech Conference [FutureSync](https://2020.futuresync.co.uk/)
+
+### Get in touch
+
+* LinkedIn: [@nodonnell](https://www.linkedin.com/in/nodonnell/)
 
 <!--
 **nodonnell98/nodonnell98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
