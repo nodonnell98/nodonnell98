@@ -2,7 +2,7 @@
 
 *He/Him, Full Stack Developer for [Wildgoose](wearewildgoose.com)*
 
-I'm a software developer learning as much as I can about front end web design. I work primarily with Ruby on Rails & React but in my own time I enjoy developing my skills with other technologies.
+I'm a software developer learning as much as I can about front end web design. I work primarily with Ruby on Rails but in my own time I enjoy developing my skills with other technologies.
 
 I have also given a professional seminar at the FutureSync 2020 Tech Conference [FutureSync](https://2020.futuresync.co.uk/)
 
