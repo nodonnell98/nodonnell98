@@ -1,10 +1,10 @@
 ### Hey! I'm Niall 👋
 
-*He/Him, Full Stack Developer for [Wildgoose](wearewildgoose.com)*
+*He/Him, Growth Full Stack Developer for [Wildgoose](wearewildgoose.com)*
 
-I'm a software developer learning as much as I can about front end web design. I work primarily with Ruby on Rails but in my own time I enjoy developing my skills with other technologies.
+I'm a software developer who loves learning as much as I can. I work primarily with Ruby on Rails but in my own time I enjoy developing my skills with other technologies.
 
-I have also given a professional seminar at the FutureSync 2020 Tech Conference [FutureSync](https://2020.futuresync.co.uk/)
+I have also given several professional seminar at venues such as the FutureSync 2020 Tech Conference [FutureSync](https://2020.futuresync.co.uk/) and Digital Plymouth.
 
 ### Get in touch
 
