@@ -1,6 +1,6 @@
 ### Hey! I'm Niall 👋
 
-*He/Him, Growth Full Stack Developer for [Wildgoose](wearewildgoose.com)*
+*He/Him | Full Stack Developer | Ruby on Rails, Javascript, CSS *
 
 I'm a software developer who loves learning as much as I can. I work primarily with Ruby on Rails but in my own time I enjoy developing my skills with other technologies.
 
